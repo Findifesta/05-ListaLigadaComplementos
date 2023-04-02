@@ -135,7 +135,6 @@ void inserirElemento()
 			return;
 		}
 		aux = aux->prox;
-
 	}
 	if (primeiro == NULL) {
 		primeiro = novo;
